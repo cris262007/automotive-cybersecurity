@@ -1,11 +1,4 @@
-cd automotive-cybersecurity
-git init
-git add .
-git commit -m "Initial commit: Automotive cybersecurity protection system"
-git remote add origin https://github.com/YOUR_USERNAME/automotive-cybersecurity.git
-git branch -M main
-git push -u origin main
- Automotive Cybersecurity Protection System
+# Automotive Cybersecurity Protection System
 
 A comprehensive Linux-based security framework for protecting vehicle systems from cyber attacks, implementing defense-in-depth architecture with hardware security, encrypted communications, intrusion detection, and anomaly monitoring.
 
@@ -286,4 +279,3 @@ This project implements security measures aligned with:
 **⭐ If you find this project helpful, please consider giving it a star!**
 
 Made with ❤️ for automotive cybersecurity
-
